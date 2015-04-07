@@ -15,7 +15,7 @@ S5_BBoy-Kute  | 1112440 | Huỳnh Văn Hiếu | thanksnha@gmail.com |
 S6_gangoffight  | 1212102 | Phạm Trường Giang | giangcoi041@gmail.com |  gangoffightplus
 L1_OSS_KHTN  | 1112006 | Trần Phạm Tuấn Anh | mrarsenal10@gmail.com | mrarsenal10
 L2_AIMABIET  | 1112501 | Nguyễn Quốc Minh Toàn | jamesbrad1309@gmail.com | 
-L3_The-Last  | 1212393 | Nguyễn Hữu Thuận | nguyenhuuthuan94@gmail.com | 
+L3_The-Last  | 1212393 | Nguyễn Hữu Thuận | nguyenhuuthuan94@gmail.com | nguyenhuuthuan94
 L4_The-Sun  | 1212536 | Đặng Nhựt Yên | nhutyen.hh@gmail.com | 
 L5_Gray-Hat  | 1112267 | Nguyễn Hữu Tài | chautentri@gmail.com | nhtai
 L6_Whisky  | 1212206 | Đặng Cửu Hoàng Long | hoanglong12206@gmail.com | 
