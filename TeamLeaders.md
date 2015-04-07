@@ -18,5 +18,5 @@ L2_AIMABIET  | 1112501 | Nguyễn Quốc Minh Toàn | jamesbrad1309@gmail.com |
 L3_The-Last  | 1212393 | Nguyễn Hữu Thuận | nguyenhuuthuan94@gmail.com | 
 L4_The-Sun  | 1212536 | Đặng Nhựt Yên | nhutyen.hh@gmail.com | 
 L5_Gray-Hat  | 1112267 | Nguyễn Hữu Tài | chautentri@gmail.com | nhtai
-L6_Whisky  | 1212206 | Đặng Cửu Hoàng Long | hoanglong12206@gmail.com | 
+L6_Whisky  | 1212206 | Đặng Cửu Hoàng Long | hoanglong12206@gmail.com | dchlong
 
