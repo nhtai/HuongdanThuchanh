@@ -3,9 +3,7 @@ Tài liệu hướng dẫn TH và các đề bài cho bài tập / đồ án cu�
 
 Danh sách giáo viên:
 - lxdinh,  bixycler 
-- tploc, trphloc
 - htthanh, hotuanthanh 
-- vhphuc, vhphuc
 
 
 
